@@ -12,12 +12,12 @@ We can use `<th>` in place of `<td>` for making a header row.
   </tr>
   <tr>
     <td>Gaagul</td>
-    <td>25</td>
+    <td>24</td>
     <td>Male</td>
   </tr>
   <tr>
     <td>Gaagul</td>
-    <td>30</td>
+    <td>31</td>
     <td>Female</td>
   </tr>
 </table>
