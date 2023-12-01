@@ -11,12 +11,12 @@ We can use `<th>` in place of `<td>` for making a header row.
     <th>Gender</th>
   </tr>
   <tr>
-    <td>Google</td>
+    <td>Oliver</td>
     <td>24</td>
     <td>Male</td>
   </tr>
   <tr>
-    <td>Google</td>
+    <td>Eve</td>
     <td>31</td>
     <td>Female</td>
   </tr>
